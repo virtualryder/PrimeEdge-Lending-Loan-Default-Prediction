@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Complete-success)
 
 ## Project Overview
-
+This is a case study with sample datasets provided from kaggle.com. 
 **PrimeEdge Lending** is experiencing a critical business challenge with a **66.86% loan default rate**, significantly impacting financial stability. This project develops and evaluates multiple machine learning models to predict loan defaults and improve the loan approval process.
 
 ### Business Problem
