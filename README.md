@@ -368,7 +368,6 @@ For questions, feedback, or collaboration:
 
 ## Acknowledgments
 
-- PrimeEdge Lending for providing the dataset
 - Scikit-learn documentation and community
 - Machine learning best practices from industry experts
 
